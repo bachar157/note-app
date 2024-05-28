@@ -5,7 +5,7 @@ note-app is a simple, elegant note-taking web application that allows you to cre
 
 ## Demo
 
-Check out the live demo of NoteMaster [here](https://bachar157.github.io/note-app/).
+Check out the live demo of note-app [here](https://bachar157.github.io/note-app/).
 
 ## Features
 
