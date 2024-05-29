@@ -33,7 +33,7 @@ function minimizeApp() {
         minimized = false;
     } else {
         originalHeight = noteApp.style.height;
-        noteApp.style.height = '60px';
+        noteApp.style.height = '70px';
         noteApp.classList.add('minimized');
         minimized = true;
     }
@@ -50,7 +50,7 @@ function maximizeApp() {
         noteApp.style.width = '100%';
         noteApp.style.height = '100%';
         noteApp.style.top = '0';
-        noteApp.style.left = '0';
+        noteApp.style.left = '10';
         document.querySelector('.maximize i').classList.replace('fa-window-maximize', 'fa-window-restore');
     } else {
         noteApp.style.width = previousDimensions.width;
