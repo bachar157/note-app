@@ -60,4 +60,5 @@ note-app/
 │       └── index.js
 ├── index.html
 └── README.md
+![image](https://github.com/bachar157/note-app/assets/71847632/94133642-bf70-43e7-9a05-35d427bc58c1)
 
