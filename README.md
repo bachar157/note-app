@@ -53,7 +53,7 @@ To run this project, you need a web browser (such as Chrome, Firefox, or Safari)
 
 
 note-app/
-├── assets/
+├── style/
 │   ├── css/
 │   │   └── index.css
 │   └── js/
